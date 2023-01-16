@@ -107,11 +107,3 @@ const saveNote = () => {
     });
   }
 })();
-
-
-// function clearIndex(){
-//   let i = 0;
-//   i++
-//   console.log(i);
-// }
-// clearIndex()
